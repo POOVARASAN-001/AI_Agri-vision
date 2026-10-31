@@ -1,0 +1,107 @@
+{
+  "best_validation_accuracy": 0.9935514461830252,
+  "class_names": [
+    "Apple___Apple_scab",
+    "Apple___Black_rot",
+    "Apple___Cedar_apple_rust",
+    "Apple___healthy",
+    "Blueberry___healthy",
+    "Cherry_(including_sour)___Powdery_mildew",
+    "Cherry_(including_sour)___healthy",
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "Corn_(maize)___Common_rust_",
+    "Corn_(maize)___Northern_Leaf_Blight",
+    "Corn_(maize)___healthy",
+    "Grape___Black_rot",
+    "Grape___Esca_(Black_Measles)",
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "Grape___healthy",
+    "Orange___Haunglongbing_(Citrus_greening)",
+    "Peach___Bacterial_spot",
+    "Peach___healthy",
+    "Pepper,_bell___Bacterial_spot",
+    "Pepper,_bell___healthy",
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Potato___healthy",
+    "Raspberry___healthy",
+    "Soybean___healthy",
+    "Squash___Powdery_mildew",
+    "Strawberry___Leaf_scorch",
+    "Strawberry___healthy",
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___Spider_mites Two-spotted_spider_mite",
+    "Tomato___Target_Spot",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "Tomato___Tomato_mosaic_virus",
+    "Tomato___healthy"
+  ],
+  "seed": 42,
+  "validation_fraction": 0.15,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.4121037448262133,
+      "val_loss": 0.2199001233687385,
+      "val_accuracy": 0.9287814129919393
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.2085614811581049,
+      "val_loss": 0.18831692800003524,
+      "val_accuracy": 0.9396870554765292
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.17645629524291498,
+      "val_loss": 0.20353959516616385,
+      "val_accuracy": 0.9296348980559507
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.3179447292088527,
+      "val_loss": 0.08810874834138284,
+      "val_accuracy": 0.9701280227596017
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.0815928139897944,
+      "val_loss": 0.04719700837249953,
+      "val_accuracy": 0.9841631104788999
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.0519125013057275,
+      "val_loss": 0.03557233935842028,
+      "val_accuracy": 0.9874822190611664
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.03675264023654319,
+      "val_loss": 0.02765525546815377,
+      "val_accuracy": 0.990990990990991
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.030215648457669032,
+      "val_loss": 0.02270124802438928,
+      "val_accuracy": 0.9929824561403509
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.025254676494981206,
+      "val_loss": 0.023294995097284325,
+      "val_accuracy": 0.9926031294452347
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.02255498129082941,
+      "val_loss": 0.021547717714831625,
+      "val_accuracy": 0.9935514461830252
+    }
+  ]
+}
